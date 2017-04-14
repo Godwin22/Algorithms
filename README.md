@@ -1,4 +1,6 @@
 # Algorithms
 lots of single algorithms
 
-its wile be coded by Godwin
+its will be coded by Godwin
+
+
