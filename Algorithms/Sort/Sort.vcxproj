@@ -150,7 +150,7 @@
     <ClInclude Include="Sort.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sory.cpp" />
+    <ClCompile Include="Sort.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
