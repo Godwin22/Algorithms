@@ -1,9 +1,6 @@
 #pragma once
 
-#include "Sort.h"
 #include "List.h"
-
-using namespace std;
 
 void bubbling(List *list)
 {
