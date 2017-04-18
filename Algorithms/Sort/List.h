@@ -10,4 +10,5 @@ public:
 public:
 	List();
 	void insert(int data);
+	void print();
 };
