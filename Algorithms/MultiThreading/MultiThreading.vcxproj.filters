@@ -15,18 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Bubbling.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="Sort.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="List.h">
+    <ClCompile Include="MultiThreading.h">
       <Filter>头文件</Filter>
     </ClCompile>
-    <ClCompile Include="Sort.cpp">
+    <ClCompile Include="MultiThreading.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
