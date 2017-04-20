@@ -1,11 +1,8 @@
 #include "Sort.h"
 #include "Bubbling.h"
 
-List::List()
+List::List():length(0), size(SIZE), list((int *)malloc(sizeof(int)* SIZE))
 {
-	length = 0;
-	list = (int *)malloc(sizeof(int)* SIZE);
-	size = SIZE;
 }
 void List::insert(int data)
 {
