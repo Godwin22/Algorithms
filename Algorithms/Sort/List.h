@@ -1,7 +1,5 @@
 #pragma once
 
-#include "Sort.h"
-
 class List {
 public:
 	int *list;
