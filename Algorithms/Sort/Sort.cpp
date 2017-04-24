@@ -38,5 +38,6 @@ int main() {
 	list->print();
 	bubbling(list);
 	list->print();
+
 	return 0;
 }
