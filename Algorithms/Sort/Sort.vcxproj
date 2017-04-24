@@ -150,6 +150,7 @@
     <ClInclude Include="Sort.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="List.cpp" />
     <ClCompile Include="List.h" />
     <ClCompile Include="Sort.cpp" />
   </ItemGroup>
